@@ -1,0 +1,28 @@
+{
+  "name": "ngx-google-maps-wrapper",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Conquex/ngx-google-maps-wrapper"
+  },
+  "author": {
+    "name": "Conquex",
+    "email": "svetlio@conquex.com"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Conquex/ngx-google-maps-wrapper/issues"
+  },
+  "main": "ngx-google-maps-wrapper.umd.js",
+  "module": "ngx-google-maps-wrapper.js",
+  "jsnext:main": "ngx-google-maps-wrapper.js",
+  "typings": "ngx-google-maps-wrapper.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
